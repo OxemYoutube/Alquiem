@@ -1,0 +1,14 @@
+[
+  {
+    "code": "ALQ24561",
+    "startDate": "",
+    "endDate": "",
+    "rewards": [
+      {
+        "type": "switch",
+        "id": 469,
+        "amount": true
+      }
+    ]
+  }
+]

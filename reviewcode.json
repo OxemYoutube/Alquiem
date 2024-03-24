@@ -1,8 +1,8 @@
 [
   {
     "code": "123",
-    "startDate": "",
-    "endDate": "",
+    "startDate": "2024-03-24T16:19Z",
+    "endDate": "2100-01-31T16:19Z",
     "rewards": [
       {
         "type": "switch",

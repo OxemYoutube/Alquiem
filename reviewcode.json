@@ -23,4 +23,40 @@
       }
     ]
   }
+    {
+    "code": "LAZZ99",
+    "startDate": "2024-03-24T16:19Z",
+    "endDate": "2099-12-31T16:19Z",
+    "rewards": [
+      {
+        "type": "item",
+        "id": 2,
+        "amount": 1000
+      }
+    ]
+  }
+      {
+    "code": "EALX02",
+    "startDate": "2024-03-24T16:19Z",
+    "endDate": "2099-12-31T16:19Z",
+    "rewards": [
+      {
+        "type": "item",
+        "id": 2,
+        "amount": 1500
+      }
+    ]
+  }
+        {
+    "code": "VENI706",
+    "startDate": "2024-03-24T16:19Z",
+    "endDate": "2099-12-31T16:19Z",
+    "rewards": [
+      {
+        "type": "item",
+        "id": 2,
+        "amount": 8000
+      }
+    ]
+  }
 ]

@@ -2,12 +2,24 @@
   {
     "code": "KZR478",
     "startDate": "2024-03-24T16:19Z",
-    "endDate": "2024-12-31T16:19Z",
+    "endDate": "2099-12-31T16:19Z",
     "rewards": [
       {
         "type": "switch",
         "id": 469,
         "amount": true
+      }
+    ]
+  }
+  {
+    "code": "GAN121",
+    "startDate": "2024-03-24T16:19Z",
+    "endDate": "2099-12-31T16:19Z",
+    "rewards": [
+      {
+        "type": "item",
+        "id": 2,
+        "amount": 500
       }
     ]
   }

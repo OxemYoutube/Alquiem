@@ -1,0 +1,14 @@
+[
+  {
+    "code": "QUEST2024",
+    "startDate": "",
+    "endDate": "",
+    "rewards": [
+      {
+        "type": "switch",
+        "id": 2,
+        "amount": true
+      }
+    ]
+  }
+]

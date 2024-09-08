@@ -1,8 +1,8 @@
 [
   {
     "code": "QUEST2024",
-    "startDate": "",
-    "endDate": "",
+    "startDate": "2024-09-08T15:21Z",
+    "endDate": "2025-01-01T15:21Z",
     "rewards": [
       {
         "type": "switch",
